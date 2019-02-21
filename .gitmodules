@@ -1,0 +1,6 @@
+[submodule "matlab-aws-common"]
+	path = matlab-aws-common
+	url = https://github.com/mathworks-ref-arch/matlab-aws-common.git
+[submodule "matlab-aws-s3"]
+	path = matlab-aws-s3
+	url = https://github.com/mathworks-ref-arch/matlab-aws-s3.git
