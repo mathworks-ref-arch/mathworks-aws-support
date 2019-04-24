@@ -4,3 +4,9 @@
 [submodule "matlab-aws-s3"]
 	path = matlab-aws-s3
 	url = https://github.com/mathworks-ref-arch/matlab-aws-s3.git
+[submodule "matlab-aws-sqs"]
+	path = matlab-aws-sqs
+	url = git@github.com:mathworks-ref-arch/matlab-aws-sqs.git
+[submodule "matlab-aws-sns"]
+	path = matlab-aws-sns
+	url = git@github.com:mathworks-ref-arch/matlab-aws-sns.git
