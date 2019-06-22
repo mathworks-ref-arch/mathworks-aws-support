@@ -1,5 +1,4 @@
 # MathWorks® interfaces for Amazon Web Services™ (AWS)
-
 Source code, documentation and reference material supporting MathWorks products on Amazon Web Services.
 
 ## System Requirements:
@@ -41,5 +40,4 @@ Provide suggestions for additional features or capabilities using the following 
 https://www.mathworks.com/products/reference-architectures/request-new-reference-architectures.html
 
 ## Support
-Email: `mwlab@mathworks.com`     
-
+Email: `mwlab@mathworks.com` or please log an issue    

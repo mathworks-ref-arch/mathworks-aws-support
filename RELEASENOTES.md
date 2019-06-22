@@ -1,5 +1,9 @@
 # MathWorks products on Amazon Web Services (AWS)
 
+## Release 0.3.0 (21st Jun 2019)
+* Added support for AWS DynamoDB
+* Updated security notices
+
 ## Release 0.2.1 (15th May 2019)
 * Minor bugfixes for endpoint and region handling for S3, SQS and SNS
 
