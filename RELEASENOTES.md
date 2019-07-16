@@ -1,5 +1,8 @@
 # MathWorks products on Amazon Web Services (AWS)
 
+## Release 0.4.0 (16th July 2019)
+* Add support for AWS Athena
+
 ## Release 0.3.0 (21st Jun 2019)
 * Added support for AWS DynamoDB
 * Updated security notices
