@@ -16,3 +16,6 @@
 [submodule "matlab-aws-athena"]
 	path = matlab-aws-athena
 	url = https://github.com/mathworks-ref-arch/matlab-aws-athena.git
+[submodule "matlab-aws-ssm"]
+	path = matlab-aws-ssm
+	url = https://github.com/mathworks-ref-arch/matlab-aws-ssm.git
