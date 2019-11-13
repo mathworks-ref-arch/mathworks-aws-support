@@ -1,6 +1,6 @@
 # MathWorks products on Amazon Web Services (AWS)
 
-## Release 0.2.2 (11th Nov 2019)
+## Release 0.5.0 (11th Nov 2019)
 * Added support for AWS Systems Manager (SSM)   
 * Added support for AWS DynamoDB   
 * Added support for AWS Athena   
@@ -11,6 +11,13 @@
 * Added support for other S3 compatible endpoints
 * Updated aws-common code   
 * Improved documentation
+
+## Release 0.4.0 (16th July 2019)
+* Add support for AWS Athena
+
+## Release 0.3.0 (21st Jun 2019)
+* Added support for AWS DynamoDB
+* Updated security notices
 
 ## Release 0.2.1 (15th May 2019)
 * Minor bugfixes for endpoint and region handling for S3, SQS and SNS
