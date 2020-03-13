@@ -15,7 +15,7 @@ Amazon Products (http://www.amazonaws.com)
 2. [AWS SDK for Java](https://aws.amazon.com/sdk-for-java/) (version 1.11.367 or later)
 
 Please note that some of the components included in this repository may require
-different versions that supercede these requirements.
+different versions that supersede these requirements.
 
 ## Getting Started
 Clone this repository using the recursive flag.
@@ -28,12 +28,13 @@ Rebuild any required java components using:
 ```bash
 mvn clean package
 ```
-On any POM.xml files in this or dependent repositories.
+For any pom.xml files in this or dependent repositories. These files can normally be found in the ```/Software/Java``` subdirectories of the respective packages.
+
 
 Please refer to the [Documentation](Documentation/README.md) to get started.
 
 ## License
-The License agreement for this software can be found [here](LICENSE.TXT).    
+The License agreement for this software can be found [here](LICENSE.md).    
 
 ## Enhancement Request
 Provide suggestions for additional features or capabilities using the following link:   

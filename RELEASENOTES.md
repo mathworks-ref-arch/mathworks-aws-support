@@ -1,5 +1,17 @@
 # MathWorks products on Amazon Web Services (AWS)
 
+## Release 0.5.1 (10th Mar 2020)   
+* Updated security notice   
+* Updated license   
+* Updated the following submodules:   
+- matlab-aws-common   
+- matlab-aws-dynamodb   
+- matlab-aws-s3   
+- matlab-aws-sns   
+- matlab-aws-sqs   
+- matlab-aws-ssm
+- matlab-aws-athena   
+
 ## Release 0.5.0 (11th Nov 2019)
 * Added support for AWS Systems Manager (SSM)   
 * Added support for AWS DynamoDB   
