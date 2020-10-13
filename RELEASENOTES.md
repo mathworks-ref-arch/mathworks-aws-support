@@ -1,7 +1,7 @@
 # MathWorks products on Amazon Web Services (AWS)
 
 ## Release 0.5.2 (13th Oct 2020)
-* Fixed security vulnerability in AWS S3 submodules
+* Bumped junit version all relevant modules
 
 ## Release 0.5.1 (10th Mar 2020)   
 * Updated security notice   
