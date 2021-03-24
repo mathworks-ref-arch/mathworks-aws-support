@@ -1,5 +1,10 @@
 # MathWorks products on Amazon Web Services (AWS)
 
+## Release 0.5.3 (24th Mar 2021)
+* Integration tests for all submodule functionality
+* Bugfixes and minor improvements 
+* Improved documentation
+
 ## Release 0.5.2 (13th Oct 2020)
 * Bumped junit version all relevant modules
 
