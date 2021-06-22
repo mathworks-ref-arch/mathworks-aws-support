@@ -1,5 +1,8 @@
 # MathWorks products on Amazon Web Services (AWS)
 
+## Release 0.5.4 (22nd Jun 2021)
+* Minor update to matlab-aws-common
+
 ## Release 0.5.3 (24th Mar 2021)
 * Integration tests for all submodule functionality
 * Bugfixes and minor improvements 
