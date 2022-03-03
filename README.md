@@ -42,3 +42,5 @@ https://www.mathworks.com/products/reference-architectures/request-new-reference
 
 ## Support
 Email: `mwlab@mathworks.com` or please log an issue    
+
+[//]: #  (Copyright 2019-2022 The MathWorks, Inc.)
