@@ -2,7 +2,7 @@
 Source code, documentation and reference material supporting MathWorks products on Amazon Web Services.
 
 ## System Requirements:
-MathWorks Products (http://www.mathworks.com)
+MathWorks Products (https://www.mathworks.com)
 
 1. [MATLAB®](https://www.mathworks.com/products/matlab.html) (R2017a or later)
 2. [MATLAB Compiler™](https://www.mathworks.com/products/compiler.html) and [MATLAB Compiler SDK™](https://www.mathworks.com/products/matlab-compiler-sdk.html) (R2017a or later)
