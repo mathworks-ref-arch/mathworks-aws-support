@@ -1,8 +1,9 @@
 # MathWorks products on Amazon Web Services (AWS)
 
-## Release 0.5.3 (4th Oct 2023)
+## Release 0.5.6 (4th Oct 2023)
 
 * Updated AWS SDK version in all modules
+* Release version and tag sync
 
 ## Release 0.5.2 (13th Oct 2020)
 
