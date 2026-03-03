@@ -30,8 +30,8 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="300" y="100" font-family="Segoe UI, DejaVu Sans, Verdana, sans-serif" font-size="16" fill="#1F2937">
-    <tspan>AWS SDK for Java v1 reached end‑of‑support on Dec 31, 2025.</tspan>
-    <tspan>This repo is archived (no updates or fixes).</tspan>   
+  <text x="300" y="100" font-family="Segoe UI, DejaVu Sans, Verdana, sans-serif" font-size="16" fill="#1F2937">  
+    <tspan x="300" dy="0">AWS SDK for Java v1 reached end‑of‑support on Dec 31, 2025.</tspan>
+    <tspan x="300" dy="20">This repo is archived (no updates or fixes).</tspan> 
   </text>
 </svg>
