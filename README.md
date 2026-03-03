@@ -1,3 +1,5 @@
+[![Deprecated — Use MATLAB AWS Support v2](./.github/deprecated-banner.svg)](https://github.com/<your-org>/matlab-aws-support-v2)
+
 # MathWorks® interfaces for Amazon Web Services™ (AWS)
 
 Source code, documentation and reference material supporting MathWorks products on Amazon Web Services.
